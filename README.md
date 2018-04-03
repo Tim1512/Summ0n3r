@@ -22,6 +22,7 @@ Maintainability will be very rare, because .. lazy.
   git clone https://github.com/abaykan/Summ0n3r.git
   cd Summ0n3r/
   chmod +x Summ0n3r.py
+  pip install -r requirements.txt
   python Summ0n3r.py -h</pre>
   
 note: tested with Python 2.7.14
