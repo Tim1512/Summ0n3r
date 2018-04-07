@@ -34,7 +34,7 @@ elif args.serenity:
     call(["git", "clone", "https://github.com/abaykan/53R3N17Y.git"])
 elif args.wpscan:
     call(["git", "clone", "https://github.com/wpscanteam/wpscan.git"])
-elif args.wpscan:
+elif args.subover:
     call(["git", "clone", "https://github.com/Ice3man543/SubOver.git"])
 elif args.joomscan:
     call(["git", "clone", "https://github.com/rezasp/joomscan.git"])
@@ -46,5 +46,5 @@ elif args.sqlmap:
     call(["git", "clone", "--depth", "1", "https://github.com/sqlmapproject/sqlmap.git"])
 elif args.cupp:
     call(["git", "clone", "https://github.com/Mebus/cupp.git"])
-elif args.cupp:
+elif args.weevely:
     call(["git", "clone", "https://github.com/epinna/weevely3.git"])
